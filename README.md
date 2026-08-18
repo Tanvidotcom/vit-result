@@ -81,6 +81,6 @@ vit-result/
 ├── README.md
 ```
 
-## Author
+## Screenshot
 
-VIT Result Calculator Project
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/8957f001-a039-4c18-9ae0-62521696f10e" />
