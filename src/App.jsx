@@ -11,6 +11,9 @@ export default function App() {
       <main>
         <ResultCalculator />
       </main>
+      <footer>
+        Tanvi Nanaware | Roll No. 44
+      </footer>
          </div>
   )
 }
