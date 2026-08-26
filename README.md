@@ -83,4 +83,5 @@ vit-result/
 
 ## Screenshot
 
-<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/8957f001-a039-4c18-9ae0-62521696f10e" />
+<img width="1902" height="908" alt="image" src="https://github.com/user-attachments/assets/a0fb4a42-ee19-4784-ba15-5f8be1d9fb52" />
+
